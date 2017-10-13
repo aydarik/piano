@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "tags": [
+        "java",
+        "methods"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 1,
+        "user_type": "registered",
+        "display_name": "user1",
+        "link": "https://stackoverflow.com/users/1/user1"
+      },
+      "is_answered": true,
+      "view_count": 1,
+      "protected_date": 0,
+      "answer_count": 1,
+      "community_owned_date": 0,
+      "score": 1,
+      "last_activity_date": 0,
+      "creation_date": 0,
+      "last_edit_date": 0,
+      "question_id": 1,
+      "link": "https://stackoverflow.com/questions/1/java-question",
+      "title": "Java question"
+    },
+    {
+      "tags": [
+        "java",
+        "memory"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 2,
+        "user_type": "registered",
+        "accept_rate": 1,
+        "display_name": "user2",
+        "link": "https://stackoverflow.com/users/2/user2"
+      },
+      "is_answered": false,
+      "view_count": 1,
+      "protected_date": 0,
+      "answer_count": 0,
+      "community_owned_date": 0,
+      "score": 1,
+      "last_activity_date": 0,
+      "creation_date": 0,
+      "last_edit_date": 0,
+      "question_id": 2,
+      "link": "https://stackoverflow.com/questions/2/java-question-2",
+      "title": "Java question 2"
+    }
+  ],
+  "has_more": false,
+  "quota_max": 5,
+  "quota_remaining": 4
+}
